@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Ubuntu
+~*
+
+# Mac
+.DS_Store

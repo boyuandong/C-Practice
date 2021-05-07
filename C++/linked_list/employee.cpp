@@ -19,12 +19,12 @@ struct Employee
     Employee * next;
 };
 int menu();
-Employee * Create();                        // Create/initialize employee list
-void ShowList(Employee * head);             // Show the list
-int Count(Employee *&head, char sex);       // count the number of employee of one sex
-void insert(Employee *& head, Employee * new_e);              // insert employee to the end of list
-void delete_id(Employee *& head);           // delete employee according to id
-Employee * delete_sex_age(Employee *& head);      // delete employee according to sex & age
+Employee * Create();                                            // Create/initialize employee list
+void ShowList(Employee * head);                                 // Show the list
+int Count(Employee *&head, char sex);                           // count the number of employee of one sex
+void insert(Employee *& head, Employee * new_e);                 // insert employee to the end of list
+void delete_id(Employee *& head);                                // delete employee according to id
+Employee * delete_sex_age(Employee *& head);                      // delete employee according to sex & age
 
 int main()
 {

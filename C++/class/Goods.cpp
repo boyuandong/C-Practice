@@ -64,7 +64,7 @@ int main()
         cout<<"Please choice:\n";
         cout<<"----------------------"<<endl;
         cout<<"Key in 1 is purchase,\nKey in 2 is sale,\nKey in 0 is over.\n";
-         cout<<"----------------------"<<endl;
+        cout<<"----------------------"<<endl;
         cin>>choice;
         switch (choice)
         {

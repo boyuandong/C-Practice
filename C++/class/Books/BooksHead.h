@@ -10,7 +10,7 @@ class Books
         static int total_number;
     public:
         int code;
-        Books(int n, string name, double p);
+        Books(int n, string pname, double p);
         void display()const;
         void borrow();      // borrow book
         void restore();     // return the book

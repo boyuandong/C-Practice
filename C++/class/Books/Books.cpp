@@ -2,10 +2,10 @@
 #include "BooksHead.h"
 int Books::total_number = 0;
 // instructor
-Books::Books(int n, string name, double p)
+Books::Books(int n, string pname, double p)
 {
     code = n;
-    bookname = name;
+    bookname = pname;
     price = p;
     total_number += 1;
 }
@@ -17,24 +17,6 @@ void Books::display()const
 {
     cout<<"No."<<code<<"\tbookname: "<<bookname<<"\tprice: "<<price<<endl;
 }
-// void Books::display(Books * head)const
-// {
-//     Books * p;
-//     // If having no books
-//     if(Books::TotalNumber() == 0)
-//     {
-//         cout<<"No books"<<endl;
-//     }
-//     else    // Otherwise
-//     {
-//         cout<<"The total number of books: "<<Books::TotalNumber()<<endl;
-//         for(p=head; p; p=p->next)
-//         {
-//             cout<<"No.: "<<p->code<<"\tbook name: "<<p->bookname<<"\tprice: "<<p->price<<endl;
-//         }
-//     }
-// }
-// borrow books
 void Books::borrow()
 {
     // total number -1

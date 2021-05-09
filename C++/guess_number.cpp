@@ -9,7 +9,7 @@ int main()
     int guess = random_guess(lower,higher);
     int flag;
     cout<<"Is this number your guess?\t"<<guess<<endl;
-    cout<<"enter 1. Given is greater than guess; 2. Given is less than guess; 0. Correct guess"<<endl;
+    cout<<"enter:\n1. Given is greater than guess;\n-1. Given is less than guess;\n0. Correct guess"<<endl;
     cin>>flag;
 
     while(flag !=0)

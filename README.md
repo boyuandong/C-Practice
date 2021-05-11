@@ -38,6 +38,5 @@
         - [string to char transfer operator](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/class/operator/string_to_char_class_transfer.cpp)
         - [rational calculate operator](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/class/operator/rational_calculate.cpp)
         - [RMB transfer operator](https://github.com/boyuandong/C-Practice/blob/main/C%2B%2B/class/operator/RMB_transfer.cpp)
-        - [setColor enum operator](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/class/operator/setColor.cpp)
 9. [**Vector**](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/Vector.cpp)
 

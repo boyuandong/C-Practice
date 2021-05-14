@@ -38,5 +38,9 @@
         - [string to char transfer operator](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/class/operator/string_to_char_class_transfer.cpp)
         - [rational calculate operator](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/class/operator/rational_calculate.cpp)
         - [RMB transfer operator](https://github.com/boyuandong/C-Practice/blob/main/C%2B%2B/class/operator/RMB_transfer.cpp)
+    - **Inherit**
+        - [inherit class call overload function](https://github.com/boyuandong/C-Practice/blob/main/C%2B%2B/class/inherit/inherit_fun.cpp)
+        - [inherit class call static value](https://github.com/boyuandong/C-Practice/blob/main/C%2B%2B/class/inherit/inherit_static.cpp)
+        - [Point, Cycle, and Cylinder](https://github.com/boyuandong/C-Practice/blob/main/C%2B%2B/class/inherit/Point_Cycle_Cylinder)
 9. [**Vector**](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/Vector.cpp)
 

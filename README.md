@@ -42,5 +42,10 @@
         - [inherit class call overload function](https://github.com/boyuandong/C-Practice/blob/main/C%2B%2B/class/inherit/inherit_fun.cpp)
         - [inherit class call static value](https://github.com/boyuandong/C-Practice/blob/main/C%2B%2B/class/inherit/inherit_static.cpp)
         - [Point, Cycle, and Cylinder](https://github.com/boyuandong/C-Practice/blob/main/C%2B%2B/class/inherit/Point_Cycle_Cylinder)
+        - [inherit multiple classes](https://github.com/boyuandong/C-Practice/blob/main/C%2B%2B/class/inherit/inherit_derived)
+        - [non virtual inherit](https://github.com/boyuandong/C-Practice/blob/main/C%2B%2B/class/inherit/non_virtual_inherit.cpp)
+        - [virtual inherit](https://github.com/boyuandong/C-Practice/blob/main/C%2B%2B/class/inherit/virtual_inherit.cpp)
+        - [Teacher inherit with class Person](https://github.com/boyuandong/C-Practice/blob/main/C%2B%2B/class/inherit/Teacher.cpp)
+        - [Sale company Calculate the Employees, Salesmem, Salesmanagers Salary](https://github.com/boyuandong/C-Practice/blob/main/C%2B%2B/class/inherit/sale_company)
 9. [**Vector**](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/Vector.cpp)
 

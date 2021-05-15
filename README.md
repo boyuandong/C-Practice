@@ -55,7 +55,7 @@
             - [Employee Wage Management](https://github.com/boyuandong/C-Practice/blob/main/C%2B%2B/class/inherit/virtual/Employee_Wage_Management). The is a system calculate employees' wage by makingusing of Non-virtual vs Virtual vs Polymorphic.
                 - [Main function](https://github.com/boyuandong/C-Practice/blob/main/C%2B%2B/class/inherit/virtual/Employee_Wage_Management/Main.cpp). There are still few usages of base pinter.
                 - **test()** can call fun by calling base pointer.
-                - **test1()** can create a list that combines different types of elements.
+                - **test2()** can create a list that combines different types of elements.
                 - **test3()**   can create a linked list by adding ***Employee *next;*** in [Employee class](https://github.com/boyuandong/C-Practice/blob/main/C%2B%2B/class/inherit/virtual/Employee_Wage_Management/Employee.h).
 9. [**Vector**](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/Vector.cpp)
 

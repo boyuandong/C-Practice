@@ -61,8 +61,8 @@
 10. [**template**](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/template)
     - [Array]()(https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/template/Array)
         - [Array template T](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/template/Array/Array.h)for different type T with ***template<typename T>***. _test()_ in [Main](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/template/ArrayMain.cpp).
-        - [BoundArray template T](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/template/Array/BoundArray.h) that inherit form class Array. _test2()_ in [Main](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/template/ArrayMain.cpp).
-    -[friend function in class](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/template/friend_Complex.cpp)
-    -[static value/function in class](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/template/static_member.cpp)
-    -[](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/template/)
+        - [BoundArray template T](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/template/Array/BoundArray.h) that inherit form class Array. _test2()_ in [Main](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/template/ArrayMain.cpp).  
+    - [friend function in class](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/template/friend_Complex.cpp)
+    - [static value/function in class](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/template/static_member.cpp)
+    - [](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/template/)
 

@@ -65,4 +65,12 @@
     - [friend function in class](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/template/friend_Complex.cpp)
     - [static value/function in class](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/template/static_member.cpp)
     - [Standard Template Library (STL)](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/template/Standard_Template_Library)
+11. [I/O, Input/Output stream](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/IO)
+    - [using get to cin character](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/IO/get.cpp)
+    - [cin.clear](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/IO/clear.cpp) to continue code running after error stream flag.
+    - [different format/base of IO](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/IO/different_IO_formate.cpp)
+    - [Using <iomanip> to format above](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/IO/iomanip.cpp)
+    - [concatenate the IO to strings](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/IO/string_stream.cpp)
+    - [](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/IO/)
+    - [](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/IO/)
 

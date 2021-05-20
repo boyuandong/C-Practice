@@ -1,0 +1,8 @@
+This is a file of students
+101 Chen 78
+120 Feng 80
+130 Guo 85
+143 Lin 90
+155 Peng 65
+111 Dong 92
+155 Huang 88

@@ -71,6 +71,14 @@
     - [different format/base of IO](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/IO/different_IO_formate.cpp)
     - [Using <iomanip> to format above](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/IO/iomanip.cpp)
     - [concatenate the IO to strings](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/IO/string_stream.cpp)
-    - [](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/IO/)
-    - [](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/IO/)
+12. [**file stream**](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/file_stream)
+    - [create a file and write student info](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/file_stream/student_file.cpp) to [this file](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/file_stream/student_info.txt) which is a example file created by the program.
+    - [read and calculate the data from the file](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/file_stream/open_read.cpp) 
+    - [add data into a file & copy/paste files](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/file_stream/add_data_to_file.cpp)
+    - **binary file**
+        - [create, modify, and output the binary file](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/file_stream/modify_binary.cpp)
+        - [read data from .txt files and write data into .dat files](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/file_stream/txt_to_binary.cpp) this is from [student_info.txt](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/file_stream/student_info.txt) to [students.dat](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/file_stream/students.dat)
+        - [read and calculate the data from the binary file](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/file_stream/read_binary_file.cpp)
+    - [bookstore management system](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/file_stream/bookstore)
+    - [](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/file_stream/)
 

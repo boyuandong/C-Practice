@@ -1,0 +1,4 @@
+1001	C++	18
+1002	HelloWorld	10
+1003	Calculate	16
+1005	Java	12

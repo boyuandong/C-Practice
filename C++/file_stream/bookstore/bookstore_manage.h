@@ -18,5 +18,5 @@ void Append(const char *fileDat);           // 入库
 void Sale(const char *fileDat);             // 销售
 void Inquire(const char *fileDat);          // 查询
 void CreateTxt(const char*fileDat);         // create txt file
-int endMark(bookData book);                 // determine if it's empty EOF mark of file
+bool endMark(bookData book);                 // determine if it's empty EOF mark of file
 #endif

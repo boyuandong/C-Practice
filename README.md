@@ -79,6 +79,5 @@
         - [create, modify, and output the binary file](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/file_stream/modify_binary.cpp)
         - [read data from .txt files and write data into .dat files](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/file_stream/txt_to_binary.cpp) this is from [student_info.txt](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/file_stream/student_info.txt) to [students.dat](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/file_stream/students.dat)
         - [read and calculate the data from the binary file](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/file_stream/read_binary_file.cpp)
-    - [bookstore management system](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/file_stream/bookstore)
-    - [](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/file_stream/)
+    - [bookstore management system](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/file_stream/bookstore) using `g++ bookstore_manage.cpp Initial.cpp Append.cpp Sale.cpp Inquire.cpp CreateTxt.cpp endMark.cpp` command line to run the code. [txt file is already created](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/file_stream/bookstore/booksFile.txt)
 

@@ -8,7 +8,7 @@ void Initial(const char * fileDat)
     fstream fdat(fileDat, ios::out|ios::binary);
     cout<<"若账目文件存在， 将删除原有数据，要进行文件初始化吗？（Y/N）\n";
     char answer;
-    cin>answer;
+    cin>>answer;
     if(answer == 'Y' || answer == 'y')
     {
         fdat.seekp(0, ios::beg);        // move pointer to the beging

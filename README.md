@@ -90,4 +90,9 @@
     - [read data from .txt files and write data into .dat files](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/file_stream/txt_to_binary.cpp) this is from [student_info.txt](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/file_stream/student_info.txt) to [students.dat](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/file_stream/students.dat)
     - [read and calculate the data from the binary file](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/file_stream/read_binary_file.cpp)
 - [**bookstore management system**](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/file_stream/bookstore) using `g++ bookstore_manage.cpp Initial.cpp Append.cpp Sale.cpp Inquire.cpp CreateTxt.cpp endMark.cpp` command line to run the code. [txt file is already created](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/file_stream/bookstore/booksFile.txt)
-
+---
+### 13. [**exception**](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/exception)
+- [throw to catch and handle exception](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/exception/div_throw.cpp)
+- [handle multiple exceptions](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/exception/multi_error.cpp)
+- [handle exceptions arise from a function](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/exception/function_exception.cpp)
+- [constructor arise exception](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/exception/constructor_exception.cpp)

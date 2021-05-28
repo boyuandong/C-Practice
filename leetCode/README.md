@@ -6,3 +6,7 @@
 5. [**罗马数字转整数**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/罗马数字转整数.cpp)
 6. [**最长公前缀**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/最长公前缀.cpp)
 7. [**数组中重复的数字**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/数组中重复的数字.cpp)
+8. [**替换空格**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/替换空格.cpp)
+9. [**从尾到头打印链表**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/从尾到头打印链表.cpp)
+10. [**有效的括号**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/有效的括号.cpp)
+11. [**合并两个有序链表**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/合并两个有序链表.cpp)

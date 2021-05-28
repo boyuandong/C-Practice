@@ -109,3 +109,4 @@
 9. [**从尾到头打印链表**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/从尾到头打印链表.cpp)
 10. [**有效的括号**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/有效的括号.cpp)
 11. [**合并两个有序链表**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/合并两个有序链表.cpp)
+12. [**用两个栈实现队列**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/用两个栈实现队列.cpp)

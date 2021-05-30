@@ -20,3 +20,5 @@
 19. [**链表中倒数第k个节点**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/链表中倒数第k个节点.cpp)
 20. [**反转链表**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/反转链表.cpp)
 21. [**合并两个排序的链表**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/合并两个排序的链表.cpp)
+22. [**二叉树的镜像**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/二叉树的镜像.cpp)
+23. [**对称的二叉树**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/对称的二叉树.cpp)

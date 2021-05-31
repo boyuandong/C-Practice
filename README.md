@@ -121,3 +121,6 @@
 21. [**合并两个排序的链表**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/合并两个排序的链表.cpp)
 22. [**二叉树的镜像**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/二叉树的镜像.cpp)
 23. [**对称的二叉树**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/对称的二叉树.cpp)
+24. [**顺时针打印矩阵**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/顺时针打印矩阵.cpp)
+25. [**包含min函数的栈**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/包含min函数的栈.cpp)
+26. [**4的幂**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/4的幂.cpp)

@@ -124,3 +124,5 @@
 24. [**顺时针打印矩阵**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/顺时针打印矩阵.cpp)
 25. [**包含min函数的栈**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/包含min函数的栈.cpp)
 26. [**4的幂**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/4的幂.cpp)
+27. [**从上到下打印二叉树II**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/从上到下打印二叉树II.cpp)
+28. [**第一个只出现一次的字符**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/第一个只出现一次的字符.cpp)

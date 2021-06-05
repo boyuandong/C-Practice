@@ -132,3 +132,5 @@
 32. [**在排序数组中查找数字I**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/在排序数组中查找数字I.cpp)
 33. [**0～n-1中缺失的数字**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/0～n-1中缺失的数字.cpp)
 34. [**二叉搜索树的第k大节点**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/二叉搜索树的第k大节点.cpp)
+35. [**和为s的两个数字**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/和为s的两个数字.cpp)
+36. [**和为s的连续正数序列**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/和为s的连续正数序列.cpp)

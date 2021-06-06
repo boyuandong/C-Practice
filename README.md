@@ -96,7 +96,7 @@
 - [handle multiple exceptions](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/exception/multi_error.cpp)
 - [handle exceptions arise from a function](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/exception/function_exception.cpp)
 - [constructor arise exception](https://github.com/boyuandong/C-Practice/tree/main/C%2B%2B/exception/constructor_exception.cpp)
-# leetcode outline
+# [**leetcode outline**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/README.md)
 ## [**简单**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple/README.md)
 1. [**两数之和**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple/两数之和.md)
 2. [**最长子串**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple/最长子串.cpp)

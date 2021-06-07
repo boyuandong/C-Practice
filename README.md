@@ -134,3 +134,8 @@
 34. [**二叉搜索树的第k大节点**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple/二叉搜索树的第k大节点.cpp)
 35. [**和为s的两个数字**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple/和为s的两个数字.cpp)
 36. [**和为s的连续正数序列**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple/和为s的连续正数序列.cpp)
+37. [**翻转单词顺序**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple/翻转单词顺序.cpp)
+38. [**左旋转字符串**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple/左旋转字符串.cpp)
+39. [**扑克牌中的顺子**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple/扑克牌中的顺子.cpp)
+40. [**圆圈中最后剩下的数字**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple/圆圈中最后剩下的数字.cpp)
+41. [**不用加减乘除做加法**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple/不用加减乘除做加法.cpp)

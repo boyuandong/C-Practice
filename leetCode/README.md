@@ -41,3 +41,6 @@
 39. [**扑克牌中的顺子**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple/扑克牌中的顺子.cpp)
 40. [**圆圈中最后剩下的数字**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple/圆圈中最后剩下的数字.cpp)
 41. [**不用加减乘除做加法**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple/不用加减乘除做加法.cpp)
+## 中等
+1. [**二维数组中的查找**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/medium/二维数组中的查找.cpp)
+2. [**重建二叉树**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/medium/重建二叉树.cpp)

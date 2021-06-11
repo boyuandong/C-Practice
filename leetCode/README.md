@@ -44,3 +44,8 @@
 ## 中等
 1. [**二维数组中的查找**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/medium/二维数组中的查找.cpp)
 2. [**重建二叉树**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/medium/重建二叉树.cpp)
+3. [**矩阵中的路径**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/medium/矩阵中的路径.cpp)
+4. [**机器人的运动范围**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/medium/机器人的运动范围.cpp)
+5. [**剪绳子**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/medium/剪绳子.cpp)
+6. [**剪绳子II**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/medium/剪绳子II.cpp)
+7. [**数值的整数次方**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/medium/数值的整数次方.cpp)

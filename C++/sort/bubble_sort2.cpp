@@ -1,4 +1,6 @@
 // bubble sort 冒泡排序     O(n^2)
+// 比较相邻的元素，如果反序则交换，过程也是分为有序区和无序区，
+// 初始时有序区为空，所有元素都在无序区，经过第一趟后就能找出最大的元素，然后重复便可
 /*
 Keep compare a[i] and a[i+1] 
 So that keep the last element(s) sorted each time

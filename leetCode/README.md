@@ -1,5 +1,5 @@
 # leetcode outline
-## [简单]((https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple/README.md))
+## [简单]((https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple)
 1. [**两数之和**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple/两数之和.md)
 2. [**最长子串**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple/最长子串.cpp)
 3. [**加一**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple/加一.cpp)
@@ -41,7 +41,7 @@
 39. [**扑克牌中的顺子**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple/扑克牌中的顺子.cpp)
 40. [**圆圈中最后剩下的数字**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple/圆圈中最后剩下的数字.cpp)
 41. [**不用加减乘除做加法**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple/不用加减乘除做加法.cpp)
-## [中等](https://github.com/boyuandong/C-Practice/tree/main/leetCode/medium/README.md)
+## [中等](https://github.com/boyuandong/C-Practice/tree/main/leetCode/medium)
 1. [**二维数组中的查找**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/medium/二维数组中的查找.cpp)
 2. [**重建二叉树**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/medium/重建二叉树.cpp)
 3. [**矩阵中的路径**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/medium/矩阵中的路径.cpp)

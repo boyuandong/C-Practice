@@ -1,5 +1,5 @@
 # leetcode outline
-## [简单]((https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple)
+## [简单](https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple)
 1. [**两数之和**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple/两数之和.md)
 2. [**最长子串**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple/最长子串.cpp)
 3. [**加一**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple/加一.cpp)

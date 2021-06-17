@@ -41,6 +41,7 @@
 39. [**扑克牌中的顺子**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple/扑克牌中的顺子.cpp)
 40. [**圆圈中最后剩下的数字**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple/圆圈中最后剩下的数字.cpp)
 41. [**不用加减乘除做加法**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple/不用加减乘除做加法.cpp)
+42. [**猜数字大小**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple/猜数字大小.cpp) 二分法。
 ## [中等](https://github.com/boyuandong/C-Practice/tree/main/leetCode/medium)
 1. [**二维数组中的查找**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/medium/二维数组中的查找.cpp)
 2. [**重建二叉树**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/medium/重建二叉树.cpp)
@@ -66,6 +67,9 @@
 22. [**求1+2+…+n**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/medium/求1+2+…+n.cpp)
 23. [**构建乘积数组**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/medium/构建乘积数组.cpp)
 24. [**把字符串转换成整数**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/medium/把字符串转换成整数.cpp)
+25. [**石子游戏**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/medium/石子游戏.cpp)
+26. [**最长回文子串**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/medium/最长回文子串.cpp) 动态规划 dynamic programming。
+27. [**Z字形变换**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/medium/Z字形变换.cpp)
 ## [困难](https://github.com/boyuandong/C-Practice/tree/main/leetCode/hard)
 1. [**正则表达式匹配**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/hard/正则表达式匹配.cpp) 动态规划问题， dynamic programming。
 2. [**数据流中的中位数**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/hard/数据流中的中位数.cpp) 数据结构。

@@ -40,3 +40,4 @@
 39. [**扑克牌中的顺子**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple/扑克牌中的顺子.cpp)
 40. [**圆圈中最后剩下的数字**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple/圆圈中最后剩下的数字.cpp)
 41. [**不用加减乘除做加法**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple/不用加减乘除做加法.cpp)
+42. [**猜数字大小**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple/猜数字大小.cpp) 二分法。

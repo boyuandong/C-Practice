@@ -23,3 +23,6 @@
 22. [**求1+2+…+n**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/medium/求1+2+…+n.cpp)
 23. [**构建乘积数组**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/medium/构建乘积数组.cpp)
 24. [**把字符串转换成整数**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/medium/把字符串转换成整数.cpp)
+25. [**石子游戏**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/medium/石子游戏.cpp)
+26. [**最长回文子串**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/medium/最长回文子串.cpp) 动态规划 dynamic programming。
+27. [**Z字形变换**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/medium/Z字形变换.cpp)

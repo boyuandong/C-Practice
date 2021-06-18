@@ -41,3 +41,7 @@
 40. [**圆圈中最后剩下的数字**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple/圆圈中最后剩下的数字.cpp)
 41. [**不用加减乘除做加法**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple/不用加减乘除做加法.cpp)
 42. [**猜数字大小**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple/猜数字大小.cpp) 二分法。
+43. [**I.二叉树的深度**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple/I.二叉树的深度.cpp)
+44. [**II.平衡二叉树**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple/II.平衡二叉树.cpp)
+45. [**I.二叉搜索树的最近公共祖先**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple/I.二叉搜索树的最近公共祖先.cpp)
+46. [**II.二叉搜索树的最近公共祖先**](https://github.com/boyuandong/C-Practice/tree/main/leetCode/simple/II.二叉搜索树的最近公共祖先.cpp)
